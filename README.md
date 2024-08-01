@@ -1,7 +1,7 @@
 ## Carrinho-De-Compras
 
 <p align="center">
-  <a href="https://github.com/joaomichalskiTI/carrinho_de_compras">
+  <a href="https://github.com/FelipeSimoesdarocha2/carrinho_de_compras">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://solvel.tech/wp-content/uploads/2019/11/Solve_PNG_White-300x150.png">
       <img src="https://solvel.tech/wp-content/uploads/2019/11/Solve_PNG_White-300x150.png" height="128">
@@ -24,7 +24,7 @@
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/joaomichalskiTI/carrinho_de_compras.git
+git clone https://github.com/FelipeSimoesdarocha2/carrinho_de_compras.git
 ```
 
 ## Install dependencies:
